@@ -1,0 +1,5 @@
+# Mencari lirik lagu
+## Website Penyedia lirik lagu
+MOOSIX adalah platfrom yang menyediakan lirik lagu artis-artis papan atas seperti Billie Eilish, Ariana Grande, SZA, dll
+## Untuk menjalankan yang saya kerjakan 
+Membuat repositories di github >> Lalu Kita git clone di terminal >> Lalu masuk ke folder dengan "cd (Nama folder)" >> Lalu buat folder virtual environment dengan cara ketik "python -m venv .venv" >> masuk ke mode virtual environment dengan cara "cd .venv/Scripts/activate" >> install django menggunakan cara pip install django >> memulai projek dgn cara django-admin startproject MOOSIX >> menambahkan gitignore dan readme dengan cara (type nul > .gitignore/README.md) >> setelah menambahkan gitignore dan readme lalu di modifikasi >> lalu kita masuk ke folder MOOSIX dengan cara cd MOOSIX >> lalu kita jalankan servernya dengan cara python manage.py runserver.
